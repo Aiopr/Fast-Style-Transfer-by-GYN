@@ -21,4 +21,3 @@
 - 提供了fast mode和high quality mode两种模式供用户选择。
 - 开源制作，通过点击右上角的按钮，可以移动到Github源代码界面。
 
-模型提供：*Reiichiro Nakano*
